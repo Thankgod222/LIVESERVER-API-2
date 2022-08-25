@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Draxtech",
+        "team": "Adidas",
+        "pointsPerGame": 20
+    },
+     {
+        "name": "Armani",
+        "team": "Dutch",
+        "pointsPerGame": 25
+    }
+]
